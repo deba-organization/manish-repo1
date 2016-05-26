@@ -1,1 +1,2 @@
 This is temp1.txt
+Line# 2 added
